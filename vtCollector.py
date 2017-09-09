@@ -11,10 +11,7 @@ KEY_TERMS = "keyword.csv"
 SAMPLE_NAMES = "sample_names.csv"
 SAMPLE_PATH = r'/home/isec/samples'
 SAMPLE_POSITIVES = " positives:50+"
-#USERNAME = 'cnguyenUTA'
-#PASSWORD = 'W1nter1scom1ng' 
-USERNAME = 'jiangmingUTA'
-PASSWORD = 'iseclab@uta'
+
 
 #Parameters 
 #terms -> Keywords for searching
